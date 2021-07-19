@@ -1,5 +1,5 @@
 package com.swa.oop;
 
-public class ObjectPassDemo {
+class ObjectPassDemo {
 
 }
